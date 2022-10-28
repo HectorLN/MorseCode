@@ -1,8 +1,8 @@
 # MorseCode
 
-Morse code project for automata theory 2 class
+Morse code project for the class of automata theory 2
 
-The project itself is a morse code translator in C#. It pulls the console and a menu comes up with 3 options:
+The project itself is a morse code translator in the console made with C#. It pulls the console and a menu comes up with 3 options:
 - Tranlate text to morse code
 - Translate morse code to text
 - Exit
